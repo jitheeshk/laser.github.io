@@ -4,7 +4,7 @@ Laser engraving, which is a subset of laser marking is the practice of using las
 
 ## Laser Engraving 
   * >First design the file in word or any similar tools .
-   <img src="http://jitheeshk.github.io/laser.github.io/Screenshot (43).jpg">
+   <img src="http://jitheeshk.github.io/laser.github.io/Screenshot (43).png">
   
   * >Save the file as pdf (make sure the size of the file is correct . If not use adobe photoshop)
   
