@@ -22,9 +22,9 @@ Molding or moulding is the process of manufacturing by shaping liquid or pliable
 
 * > Prepare the mould . Mould could be prepared by any of the steps :<br/>
           <b>1. Wax mould</b>
-               <boby><img src="http://jitheeshk.github.io/laser.github.io/wax mould.jpg" allign="Left"><br/></body>
+               <boby><img src="http://jitheeshk.github.io/laser.github.io/wax mould.jpg" allign="Left" height=200 width=250><br/></body>
           <b>2. Soap bar Mould</b>
-                <body><img src="http://jitheeshk.github.io/laser.github.io/soap mould.jpg"><br/></body>
+                <body><img src="http://jitheeshk.github.io/laser.github.io/soap mould.jpg" height=200 width=250><br/></body>
           <b>3. 3-D printed mould</b>
                 <body><img src="http://jitheeshk.github.io/laser.github.io/mould1.png"><br/></body>
   <img src="http://jitheeshk.github.io/laser.github.io/mould.jpg">
