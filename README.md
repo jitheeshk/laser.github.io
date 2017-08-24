@@ -1,8 +1,8 @@
-## Laser Cutting , Moulding and Casting
+## Laser Cutting and engraving
 
 Laser engraving, which is a subset of laser marking is the practice of using lasers to engrave an object. Laser marking, on the other hand, is a broader category of methods to leave marks on an object, which also includes color change due to chemical/molecular alteration, charring, foaming, melting, ablation, and more. The technique does not involve the use of inks, nor does it involve tool bits which contact the engraving surface and wear out, giving it an advantage over alternative engraving or marking technologies where inks or bit heads have to be replaced regularly.
 
-## Laser Engraving 
+### Laser Engraving 
   * >First design the file in word or any similar tools .
    <img src="http://jitheeshk.github.io/laser.github.io/Screenshot (43).png">
   
@@ -27,6 +27,7 @@ Molding or moulding is the process of manufacturing by shaping liquid or pliable
                 <body><img src="http://jitheeshk.github.io/laser.github.io/soap mould.jpg" height=500 width=1500><br/></body>
           <b>3. 3-D printed mould</b>
                 <body><img src="http://jitheeshk.github.io/laser.github.io/mould1.png"><br/></body>
+  <b>Our Mould :</b>
   <img src="http://jitheeshk.github.io/laser.github.io/mould.jpg">
 * > Now mix the filler along with the paint .
   <img src="http://jitheeshk.github.io/laser.github.io/mix.jpg">
