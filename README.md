@@ -14,7 +14,9 @@ Laser engraving, which is a subset of laser marking is the practice of using las
 <img src="http://jitheeshk.github.io/laser.github.io/IMG_20170822_133415407[1].jpg">
 
 <b>Another product that we did using laser cutting :</b>
-<img src="http://jitheeshk.github.io/laser.github.io/">
+<img src="http://jitheeshk.github.io/laser.github.io/photo holder1.jpg">
+
+<img src="http://jitheeshk.github.io/laser.github.io/photo holder2.jpg">
 
 ## Moulding and casting
 
