@@ -22,13 +22,13 @@ Molding or moulding is the process of manufacturing by shaping liquid or pliable
 
 * > Prepare the mould . Mould could be prepared by any of the steps :<br/>
           <b>1. Wax mould</b>
-               <boby><img src="http://jitheeshk.github.io/screenprinting.github.io/wax mould.jpg" allign="Left"><br/></body>
+               <boby><img src="http://jitheeshk.github.io/laser.github.io/wax mould.jpg" allign="Left"><br/></body>
           <b>2. Soap bar Mould</b>
-                <body><img src="http://jitheeshk.github.io/screenprinting.github.io/soap mould.jpg"><br/></body>
+                <body><img src="http://jitheeshk.github.io/laser.github.io/soap mould.jpg"><br/></body>
           <b>3. 3-D printed mould</b>
-                <body><img src="http://jitheeshk.github.io/screenprinting.github.io/3D print mould.png"><br/></body>
-  <img src="http://jitheeshk.github.io/screenprinting.github.io/mould.jpg">
+                <body><img src="http://jitheeshk.github.io/laser.github.io/mould1.png"><br/></body>
+  <img src="http://jitheeshk.github.io/laser.github.io/mould.jpg">
 * > Now mix the filler along with the paint .
-  <img src="http://jitheeshk.github.io/screenprinting.github.io/mix.jpg">
+  <img src="http://jitheeshk.github.io/laser.github.io/mix.jpg">
 * > Now fill the mould with the prepared filler .
-<img src="http://jitheeshk.github.io/screenprinting.github.io/fill.jpg">
+<img src="http://jitheeshk.github.io/laser.github.io/fill.jpg">
