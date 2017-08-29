@@ -21,7 +21,7 @@ Laser engraving, which is a subset of laser marking is the practice of using las
 ### Downloadable files
 
 * [FDP Appreciation card](http://jitheeshk.github.io/laser.github.io/Narayanan.pdf)
-* [Momento](http://jitheeshk.github.io/laser.github.io/final momento.pdf)
+* [Momento](http://jitheeshk.github.io/laser.github.io/Final Momento.jpg)
 
 ## Moulding and casting
 
