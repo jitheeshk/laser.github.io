@@ -18,6 +18,11 @@ Laser engraving, which is a subset of laser marking is the practice of using las
 
 <img src="http://jitheeshk.github.io/laser.github.io/photo holder2.jpg">
 
+### Downloadable files
+
+* [FDP Appreciation card](http://jitheeshk.github.io/laser.github.io/Narayanan.pdf)
+* [Momento](http://jitheeshk.github.io/laser.github.io/final momento.pdf)
+
 ## Moulding and casting
 
 Molding or moulding is the process of manufacturing by shaping liquid or pliable raw material using a rigid frame called a mold or matrix.This itself may have been made using a pattern or model of the final object.A mold or mould is a hollowed-out block that is filled with a liquid or pliable material such as plastic, glass, metal, or ceramic raw material.The liquid hardens or sets inside the mold, adopting its shape. A mold is the counterpart to a cast. 
